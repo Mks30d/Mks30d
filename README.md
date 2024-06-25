@@ -13,13 +13,13 @@
 <div align="center">
    <a href="https://www.linkedin.com/in/mks30d" target="_blank">
    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="35" /></a>
-   <span></span>
+   <span>&nbsp&nbsp</span>
    <a href="mailto:mks30d@gmail.com" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" /></a>
-   <span></span>
+   <span>&nbsp&nbsp</span>
    <a href="https://leetcode.com/u/Mks30d/" target="blank">
    <img align="center" src="https://github.com/Mks30d/icons/blob/main/icons/leetcode_logo-modified.png" alt="Leetcode" height="36" /></a>
-   <span></span>
+   <span>&nbsp&nbsp</span>
    <a href="https://github.com/Mks30d" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" /></a>
    <!-- sqlite, safari, google-chrome are other good icon options -->

@@ -31,9 +31,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,dart,c,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,c,mysql,git,github" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,androidstudio,idea,github" />
+  <img src="https://skillicons.dev/icons?i=dart,html,css,javascript,vscode,androidstudio,idea" />
 
 </div>
 <br/>

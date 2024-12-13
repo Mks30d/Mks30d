@@ -5,9 +5,9 @@
 
 <div align="center">
     
-   🔭 I’m currently working on **Student Management System App**
+   🔭 I’m currently working on **Campus Connect** which is basically a Student Management System App
     
-   🌱 I’m currently learning **Flutter, Java, DSA**
+   🌱 I’m currently exploring **Flutter, Java, DSA, SQL**
 </div>
 
 <div align="center">

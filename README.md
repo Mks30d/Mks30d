@@ -1,13 +1,13 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&pause=700&center=true&vCenter=true&width=500&height=70&color=006AFF&duration=5000&lines=Hi+There!+👋;+I'm+Manish+Kumar+Sharma!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&pause=1000&center=true&vCenter=true&width=500&height=70&color=006AFF&duration=3000&lines=Hi+There!+👋;+I'm+Manish+Kumar+Sharma!;" />
 </h1>
 <br/>
 
 <div align="center">
-    
-   🔭 I’m currently working on **Campus Connect** which is basically a Student Management System App
-    
-   🌱 I’m currently exploring **Flutter, Java, DSA, SQL**
+   
+   🌱 I’m currently developing **UNIVRSA**, a Student Management System App using Flutter and Firebase.
+   
+   🔭 I’m currently exploring **Flutter, Java, Firebase, and DSA**.
 </div>
 
 <div align="center">
@@ -31,9 +31,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,c,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,dart,firebase,git,github,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=dart,html,css,javascript,vscode,androidstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,javascript,react,vscode,androidstudio,idea" />
 
 </div>
 <br/>
